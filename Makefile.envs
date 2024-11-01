@@ -3,7 +3,7 @@ export PYODIDE_EMSCRIPTEN_VERSION ?= 3.1.58
 export PYODIDE_VERSION ?= 0.27.0.dev0
 export PYODIDE_ABI_VERSION ?= 2024_0
 
-export PYTHON_ARCHIVE_SHA256=d01ec6a33bc10009b09c17da95cc2759af5a580a7316b3a446eb4190e13f97b2
+export PYTHON_ARCHIVE_SHA256=85a4c1be906d20e5c5a69f2466b00da769c221d6a684acfd3a514dbf5bf10a66
 
 # Update the following variables when you want to update the version of the
 # pyodide-build version used in the build process. If you want to make breaking
